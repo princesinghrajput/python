@@ -1,0 +1,5 @@
+{
+    "name":"Prince",
+    "marks": 90,
+    "subjects": ["eng", "computer", "maths"]
+}
